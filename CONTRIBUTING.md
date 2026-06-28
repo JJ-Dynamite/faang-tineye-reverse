@@ -1,4 +1,4 @@
-# Contributing to tineye-reverse
+# Contributing to faang-tineye-reverse
 
 Thank you for your interest in contributing!
 

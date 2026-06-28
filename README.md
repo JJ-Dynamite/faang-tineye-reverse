@@ -1,6 +1,6 @@
 # Reverse image search
 
-[![CI](https://github.com/JJ-Dynamite/tineye-reverse/actions/workflows/ci.yml/badge.svg)](https://github.com/JJ-Dynamite/tineye-reverse/actions/workflows/ci.yml)
+[![CI](https://github.com/JJ-Dynamite/faang-tineye-reverse/actions/workflows/ci.yml/badge.svg)](https://github.com/JJ-Dynamite/faang-tineye-reverse/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > Reverse image search - Production-ready full-stack application
@@ -25,7 +25,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/JJ-Dynamite/tineye-reverse.git
+git clone https://github.com/JJ-Dynamite/faang-tineye-reverse.git
 cd tineye-reverse
 
 # Install backend dependencies
