@@ -1,11 +1,11 @@
 [package]
-name = "faang-tineye-reverse-backend"
+name = "tineyereverse-backend"
 version = "0.1.0"
 edition = "2021"
 description = "Reverse image search - Backend API"
 authors = ["JJ-Dynamite"]
 license = "MIT"
-repository = "https://github.com/JJ-Dynamite/faang-tineye-reverse"
+repository = "https://github.com/JJ-Dynamite/tineyereverse"
 
 [dependencies]
 axum = "0.7"
